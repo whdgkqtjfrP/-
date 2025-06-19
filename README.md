@@ -9,4 +9,10 @@ AI 기반 실시간 네트워크 트래픽 관리 시스템을 구축
 
 안정성:​시스템이 대규모 트래픽과 다양한 네트워크 공격 상황에서도 지속적으로 안정적인 성능 유지​
 
-​
+
+
+​preprocess.zip , validate.zip
+https://drive.google.com/file/d/1Y1k51yDto8MjIpVO34aC0HJxwH-HkL5j/view?usp=drive_link
+
+https://drive.google.com/file/d/1cpQtHWZnWGtD43L968Uz-g2eikjyW8XS/view
+
